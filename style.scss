@@ -1,0 +1,31 @@
+html{overflow:auto;
+overflow-x:hidden;
+font-size:18px!important;
+}
+
+body{line-height:1.8! important}
+
+.section-2{
+transform:rotate(-3deg);
+width:50%;
+margin-left:20%}
+
+.ruotato{background:#E5EEF5;transform:rotate(3deg);
+width:150%;
+margin-left:-20%}
+
+h2{}
+h3:hover, i:hover{  color:#ff3c41;   transition: 0.5s;
+}
+
+
+.d-grid{place-items:center}
+
+.divisore{height: 100px;
+transform: rotate(2deg);
+background: #E5EEF5;
+display: block;
+width: 150%;
+overflow: hidden;
+margin-left: -20px;
+margin-bottom: -5%;}
